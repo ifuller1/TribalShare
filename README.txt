@@ -1,4 +1,4 @@
-Tribal Share - This GIT Repository contains common libraries, frameworks and scripts utilised by Tribal DDB London.
+Tribal Share - This GIT Repository contains common libraries, frameworks and scripts utilised by Tribal DDB London..
 
 Contents
 --------
