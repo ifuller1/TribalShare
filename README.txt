@@ -9,3 +9,4 @@ Editors
 -------
 
 Ian Fuller (tribalshare@ifdesign.co.uk)
+Simon Gregory (anon@anon.org)
